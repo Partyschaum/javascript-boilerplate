@@ -44,8 +44,12 @@
     "> 1%"
   ],
   "dependencies": {
+    "babel-plugin-flow-react-proptypes": "^0.21.0",
     "babel-polyfill": "^6.23.0",
+    "babel-preset-react": "^6.23.0",
     "compression": "^1.6.2",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
   }
 }
