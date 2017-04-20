@@ -21,8 +21,10 @@
     "babel-eslint": "^7.2.1",
     "babel-jest": "^19.0.0",
     "babel-loader": "^6.4.1",
+    "babel-plugin-flow-react-proptypes": "^2.0.0",
     "babel-preset-env": "^1.2.2",
     "babel-preset-flow": "^6.23.0",
+    "babel-preset-react": "^6.24.1",
     "cross-env": "^3.2.4",
     "eslint": "^3.15.0",
     "eslint-config-airbnb": "^14.1.0",
@@ -44,9 +46,7 @@
     "> 1%"
   ],
   "dependencies": {
-    "babel-plugin-flow-react-proptypes": "^0.21.0",
     "babel-polyfill": "^6.23.0",
-    "babel-preset-react": "^6.23.0",
     "compression": "^1.6.2",
     "express": "^4.15.2",
     "immutable": "4.0.0-rc.2",
