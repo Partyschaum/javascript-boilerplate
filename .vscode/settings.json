@@ -1,5 +1,6 @@
 // Place your settings in this file to overwrite default and user settings.
 {
     // Disabled because Flow Language Support issue
-    "javascript.validate.enable": false
+    "javascript.validate.enable": false,
+    "flow.enabled": true
 }
